@@ -1,4 +1,4 @@
-# PhishEye
+# AuraEmailModel
 Phishing Mail Detection Model
 
 # How to use
